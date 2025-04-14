@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel CRUD Application
 
 ## Group Members
@@ -89,3 +90,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# group-1-22RP03452-22RP03898-Eventmanagement_system
+>>>>>>> ec5075a5c2f3218343a4d0c5d9106853b8f60549
